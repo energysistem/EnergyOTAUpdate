@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Energy OTA Updater</string>
+    <string name="app_name">Energy Updater</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="device">Device:</string>
@@ -30,5 +30,11 @@
     <string name="update_not_supported">Update not supported</string>
     <string name="install_text">The new update will be installed. (Reboot required)</string>
     <string name="check_updates">Check updates automatically</string>
+    <string name="enable_updates">Must enable the automatic update search.</string>
+    <string name="last_check">Last check</string>
+    <string name="warning">%1$d Mb.Conect and wifi</string>
+    <string name="battery_warning">Low Battery!</string>
+    <string name="battery_warning_dialog">Your battery is under 80%. Charge you device for install the update.</string>
+    <string name="accept">Accept</string>
 
 </resources>
