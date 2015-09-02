@@ -24,35 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bfd73f-284c-41b3-bab0-c1af76ae6425" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$DownloadTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater$DownloadTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/OTAUpdater.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/Utils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/Utils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/es/energy/energyotaupdater/OTAUpdater.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/energy/energyotaupdater/OTAUpdater.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/es/energy/energyotaupdater/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/es/energy/energyotaupdater/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EnergyOTA-220415.iws" />
@@ -84,8 +55,8 @@
       <file leaf-file-name="OTAUpdater.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/es/energy/energyotaupdater/OTAUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2181168">
-              <caret line="469" column="46" selection-start-line="469" selection-start-column="46" selection-end-line="469" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.79022646">
+              <caret line="734" column="25" selection-start-line="734" selection-start-column="25" selection-end-line="734" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3562#3596#0" expanded="true" />
@@ -1726,6 +1697,54 @@
               <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icon_notif.png" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EnergyOTAUpdater" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icon.png" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EnergyOTAUpdater" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ic_launcher.png" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1984,7 +2003,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441121234095</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Actualizado Toasts">
+      <created>1441210461083</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1441210461083</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1998,7 +2023,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1052" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2008,7 +2033,7 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32700893" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" x="1926" y="9" width="1876" height="1019" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.82254463" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32700893" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
@@ -2019,7 +2044,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -2074,7 +2099,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Añadido catalan" />
     <MESSAGE value="Añadido francés y actualizado inglés" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadido francés y actualizado inglés" />
+    <MESSAGE value="Actualizado Toasts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizado Toasts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2832,8 +2858,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/es/energy/energyotaupdater/OTAUpdater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2181168">
-          <caret line="469" column="46" selection-start-line="469" selection-start-column="46" selection-end-line="469" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.79022646">
+          <caret line="734" column="25" selection-start-line="734" selection-start-column="25" selection-end-line="734" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3562#3596#0" expanded="true" />
