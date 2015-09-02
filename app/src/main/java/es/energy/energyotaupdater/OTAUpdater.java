@@ -69,6 +69,7 @@ public class OTAUpdater extends Activity {
     private Button ButtonDescargar;
     private ProgressBar loading;
     private SharedPreferences prefs;
+    private static final String TAG = OTAUpdater.class.getName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -96,12 +97,12 @@ public class OTAUpdater extends Activity {
 
         //Compruebo los ajustes
         if (prefs.getBoolean("ota_auto",true)){
-            Toast.makeText(OTAUpdater.this, ("TRUE"), Toast.LENGTH_SHORT).show();
+            Log.d(TAG, "TRUE");
             checkUpdates();
             on_off.setChecked(true);
         }
         else{
-            Toast.makeText(OTAUpdater.this, ("False"), Toast.LENGTH_SHORT).show();
+            Log.d(TAG, "False");
             on_off.setChecked(false);
             state_update.setText(getString(R.string.enable_updates));
             info_device.setVisibility(View.INVISIBLE);
@@ -121,7 +122,7 @@ public class OTAUpdater extends Activity {
         Buttoncheck.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(OTAUpdater.this, ("Buscar"), Toast.LENGTH_SHORT).show();
+                Log.d(TAG, "Buscar");
                 checkUpdates();
             }
         });
@@ -229,7 +230,8 @@ public class OTAUpdater extends Activity {
     {
 
         //Check updates
-        Toast.makeText(OTAUpdater.this, ("Checkeando updates"), Toast.LENGTH_SHORT).show();
+        Log.d(TAG, "Checkeando updates");
+
         //comprobación de actualización desde el server, relleno textboxes a lo cutre
         new GetInfoFromServer(getApplicationContext(), new GetInfoFromServer.RomInfoListener() {
 
@@ -485,7 +487,7 @@ public class OTAUpdater extends Activity {
                 //creo un dialogo de proceso para la descargar con el changelog
                 final ProgressDialog progressDialog = new ProgressDialog(OTAUpdater.this);
                 //progressDialog.setTitle(getString(R.string.downloading));
-                progressDialog.setTitle("AQUII");
+                progressDialog.setTitle(getString(R.string.downloading));
 
                 //comprobación de idioma para changelog
                 try {
@@ -524,7 +526,8 @@ public class OTAUpdater extends Activity {
 
                 final File file = new File(Config.DL_PATH_FILE, "update" + extension);
                 dlTask = new DownloadTask(progressDialog, info, file);
-                //Toast.makeText(context,dlTask.toString(),Toast.LENGTH_LONG).show();
+
+                Log.d(TAG,dlTask.toString());
 
                 progressDialog.setButton(Dialog.BUTTON_NEUTRAL, getString(R.string.background), new DialogInterface.OnClickListener() {
                     @Override
@@ -795,7 +798,7 @@ public class OTAUpdater extends Activity {
             }
             switch (result) {
                 case 0:
-                    //Toast.makeText(ctx, "TOSTADA!!!: Descarga finalizada, ahora iríamos a instalar", Toast.LENGTH_LONG).show();
+                    Log.d(TAG,"Descarga finalizada, ahora iríamos a instalar");
                     Install.installFileDialog(ctx,destFile,info.type);
                     Intent i=OTAUpdater.intent;
                     i.putExtra("finalizada",1);
@@ -872,10 +875,12 @@ public class OTAUpdater extends Activity {
             }
             @Override
             public void onLoaded(RomInfo info) {
+                Log.d(TAG,fetchTask.toString());
                 fetchTask = null;
                 if (info == null) {
                     //availUpdatePref.setSummary(getString(R.string.main_updates_error, "Unknown error"));
                     //Toast.makeText(OTAUpdater.this, getContext().getString(R.string.error_searching_updates), Toast.LENGTH_SHORT).show();
+
                     Toast.makeText(OTAUpdater.this, getContext().getString(R.string.no_updates), Toast.LENGTH_SHORT).show();
                 } else if (Utils.isUpdate(info)) {
                     showUpdateDialog(info);
