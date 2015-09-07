@@ -24,13 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bfd73f-284c-41b3-bab0-c1af76ae6425" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/es/energy/energyotaupdater/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="C:\Users\emg\AndroidStudioProjects\EnergyOTA-220415\app\build\outputs\apk\app-debug.apk" afterPath="C:\Users\emg\AndroidStudioProjects\EnergyOTA-220415\app\build\outputs\apk\app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/es/energy/energyotaupdater/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/es/energy/energyotaupdater/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EnergyOTA-220415.iws" />
@@ -1954,7 +1947,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441215496726</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Actualizado Toasts">
+      <created>1441647001760</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1441647001760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
