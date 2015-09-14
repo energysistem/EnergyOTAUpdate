@@ -13,7 +13,7 @@
     <string name="background">"Second plan"</string>
     <string name="update_found">"Mise à jour trouvée !"</string>
     <string name="new_version">". Nouvelle version: "</string>
-    <string name="version">"Version actuelle:"</string>
+    <string name="version">"Version actuelle: "</string>
     <string name="download_error">"Erreur durant le téléchargement"</string>
     <string name="md5_error">"Erreur lors de la vérification MD5"</string>
     <string name="descarga_interrumpida">"Téléchargement interrompu"</string>
@@ -31,7 +31,7 @@
     <string name="check_updates">"Vérifier les mises à jour automatiquement"</string>
     <string name="enable_updates">"Vous devez activer la recherche de mises à jour automatiques."</string>
     <string name="last_check">"Dernière vérification"</string>
-    <string name="warning">%1$d Mb.Conect and wifi</string>
+    <string name="warning">Vous devez activer la recherche de mises à jour automatiques.</string>
     <string name="battery_warning">Low Battery!</string>
     <string name="battery_warning_dialog">Your battery is under 80%. Charge you device for install the update.</string>
     <string name="accept">Accept</string>

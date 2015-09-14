@@ -13,7 +13,7 @@
     <string name="background">"Segundo plano"</string>
     <string name="update_found">"Actualização encontrada!"</string>
     <string name="new_version">". Nova versão: "</string>
-    <string name="version">"Versão atual:"</string>
+    <string name="version">"Versão atual: "</string>
     <string name="download_error">"Erro na descarga"</string>
     <string name="md5_error">"Erro ao verificar MD5"</string>
     <string name="descarga_interrumpida">"Descarga interrompida"</string>
