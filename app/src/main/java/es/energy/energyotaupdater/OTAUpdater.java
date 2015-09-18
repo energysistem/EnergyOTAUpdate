@@ -449,7 +449,6 @@ public class OTAUpdater extends Activity {
             } else {
                 desc_updates.setText(getString(R.string.changelog) + "\n \n" + info.changelog);
             }
-
         }
         catch (NullPointerException e)
         {

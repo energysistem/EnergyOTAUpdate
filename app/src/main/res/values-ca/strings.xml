@@ -8,7 +8,7 @@
     <string name="download">"Descarregar"</string>
     <string name="downloading">"Descarregant"</string>
     <string name="download_in_progress">"Descàrrega en curs"</string>
-    <string name="changelog">"Detalls de l'actualització:"</string>
+    <string name="changelog">"Detalls de l'actualització: "</string>
     <string name="cancel">"Cancel·lar"</string>
     <string name="background">"Segon pla"</string>
     <string name="update_found">"¡Actualització trobada!"</string>

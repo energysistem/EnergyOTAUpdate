@@ -8,7 +8,7 @@
     <string name="download">"Télécharger "</string>
     <string name="downloading">"Téléchargement en cours"</string>
     <string name="download_in_progress">"Téléchargement en cours"</string>
-    <string name="changelog">"Détails de la mise à jour "</string>
+    <string name="changelog">"Détails de la mise à jour : "</string>
     <string name="cancel">"Annuler"</string>
     <string name="background">"Second plan"</string>
     <string name="update_found">"Mise à jour trouvée !"</string>

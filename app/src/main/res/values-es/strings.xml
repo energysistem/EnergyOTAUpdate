@@ -9,7 +9,7 @@
     <string name="download">Descargar</string>
     <string name="downloading">Descargando</string>
     <string name="download_in_progress">Descarga en curso</string>
-    <string name="changelog">Detalles de la actualización </string>
+    <string name="changelog">"Detalles de la actualización: "</string>
     <string name="cancel">Cancelar</string>
     <string name="background">Segundo plano</string>
     <string name="update_found">¡Actualización encontrada!</string>
@@ -32,7 +32,7 @@
     <string name="check_updates">Comprobar actualizaciones automáticamente</string>
     <string name="enable_updates">Debes activar la búsqueda de actualizaciones automáticas.</string>
     <string name="last_check">Última comprobación</string>
-    <string name="warning">Se recomienda que durante el proceso de descarga y actualización del FW, conectes el dispositivo al la corriente y a una red Wi-Fi.</string>
+    <string name="warning">Se recomienda que durante el proceso de descarga y actualización del FW, conectes el dispositivo a una red Wi-Fi y a la corriente.</string>
     <string name="battery_warning">Bateria baja</string>
     <string name="battery_warning_dialog">Para instalar la actualización el dispositivo debe tener un 80% de carga por lo menos.</string>
     <string name="accept">Aceptar</string>
