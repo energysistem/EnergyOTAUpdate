@@ -2,11 +2,7 @@ int dimen activity_horizontal_margin 0x7f050000
 int dimen activity_vertical_margin 0x7f050001
 int drawable ic_launcher 0x7f020000
 int drawable icon 0x7f020001
-int drawable icon_not 0x7f020002
-int drawable icon_notif 0x7f020003
-int drawable illustration_generic 0x7f020004
-int drawable illustration_tile 0x7f020005
-int drawable welcome_bg 0x7f020006
+int drawable icon_notif 0x7f020002
 int id button 0x7f070000
 int id desc_update 0x7f070005
 int id download 0x7f070006

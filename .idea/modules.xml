@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EnergyOTA-220415.iml" filepath="$PROJECT_DIR$/EnergyOTA-220415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnergyOTAUpdate.iml" filepath="$PROJECT_DIR$/EnergyOTAUpdate.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

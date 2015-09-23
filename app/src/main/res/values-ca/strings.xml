@@ -8,11 +8,11 @@
     <string name="download">"Descarregar"</string>
     <string name="downloading">"Descarregant"</string>
     <string name="download_in_progress">"Descàrrega en curs"</string>
-    <string name="changelog">"Detalls de l'actualització:"</string>
+    <string name="changelog">"Detalls de l'actualització: "</string>
     <string name="cancel">"Cancel·lar"</string>
     <string name="background">"Segon pla"</string>
     <string name="update_found">"¡Actualització trobada!"</string>
-    <string name="new_version">"Nova versió: "</string>
+    <string name="new_version">", Nova versió: "</string>
     <string name="version">", versió actual:"</string>
     <string name="download_error">"Error en la descàrrega"</string>
     <string name="md5_error">"Error comprovant MD5"</string>
@@ -33,6 +33,6 @@
     <string name="last_check">"Darrera comprovació"</string>
     <string name="warning">"Et recomanem que durant el procés de descàrrega i actualització connectis el dispositiu al corrent i a una xarxa Wi-Fi."</string>
     <string name="battery_warning">"Advertència"</string>
-    <string name="battery_warning_dialog">"Per instal·lar l'actualització, el dispositiu ha de tindre almenys un 60% de bateria."</string>
+    <string name="battery_warning_dialog">"Per instal·lar l'actualització, el dispositiu ha de tindre almenys un 80% de bateria."</string>
     <string name="accept">"Acceptar"</string>
 </resources>

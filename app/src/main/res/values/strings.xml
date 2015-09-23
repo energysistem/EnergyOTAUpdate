@@ -32,7 +32,7 @@
     <string name="check_updates">Check updates automatically</string>
     <string name="enable_updates">Must enable the automatic update search.</string>
     <string name="last_check">Last check</string>
-    <string name="warning">%1$d Mb.Conect and wifi</string>
+    <string name="warning">It is recommended to connect the device to the power supply and Wi-Fi network during the downloading and FW upgrading.</string>
     <string name="battery_warning">Low Battery!</string>
     <string name="battery_warning_dialog">Your battery is under 80%. Charge you device for install the update.</string>
     <string name="accept">Accept</string>

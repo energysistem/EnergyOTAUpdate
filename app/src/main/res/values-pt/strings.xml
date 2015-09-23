@@ -8,12 +8,12 @@
     <string name="download">"Descarregar"</string>
     <string name="downloading">"Descarregando"</string>
     <string name="download_in_progress">"Descarga em andamento"</string>
-    <string name="changelog">"Detalhes da actualização:"</string>
+    <string name="changelog">"Detalhes da actualização: "</string>
     <string name="cancel">"Cancelar"</string>
     <string name="background">"Segundo plano"</string>
     <string name="update_found">"Actualização encontrada!"</string>
     <string name="new_version">". Nova versão: "</string>
-    <string name="version">"Versão atual:"</string>
+    <string name="version">"Versão atual: "</string>
     <string name="download_error">"Erro na descarga"</string>
     <string name="md5_error">"Erro ao verificar MD5"</string>
     <string name="descarga_interrumpida">"Descarga interrompida"</string>
