@@ -13,8 +13,8 @@
     <string name="cancel">Cancelar</string>
     <string name="background">Segundo plano</string>
     <string name="update_found">¡Actualización encontrada!</string>
-    <string name="new_version">. Nueva versión: </string>
-    <string name="version">Versión actual: </string>
+    <string name="new_version">". Nueva versión: "</string>
+    <string name="version">"Versión actual: "</string>
     <string name="download_error">Error en la descarga</string>
     <string name="md5_error">Error al comprobar MD5</string>
     <string name="descarga_interrumpida">Descarga Interrumpida</string>

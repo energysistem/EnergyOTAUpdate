@@ -12,7 +12,7 @@
     <string name="cancel">"Cancel·lar"</string>
     <string name="background">"Segon pla"</string>
     <string name="update_found">"¡Actualització trobada!"</string>
-    <string name="new_version">"Nova versió: "</string>
+    <string name="new_version">", Nova versió: "</string>
     <string name="version">", versió actual:"</string>
     <string name="download_error">"Error en la descàrrega"</string>
     <string name="md5_error">"Error comprovant MD5"</string>
