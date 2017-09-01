@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Energy Updater</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="accept">Akceptovat</string>
+    <string name="background">Pozadí</string>
+    <string name="battery_warning">Vybitá baterie</string>
+    <string name="battery_warning_dialog">Kapacita baterie je nižší než 60%. Před instalací aktualizace baterii nabijte.</string>
+    <string name="cancel">Zrušit</string>
+    <string name="changelog">Novinky</string>
+    <string name="check_updates">Vyhledávat aktualizace automaticky</string>
+    <string name="click_instalar">Klepněte pro instalaci</string>
+    <string name="descarga_finalizada">Stahování hotovo</string>
+    <string name="descarga_interrumpida">Stahování zrušeno</string>
+    <string name="device">Zařízení</string>
+    <string name="download">Stáhnout</string>
+    <string name="download_error">Chyba stahování</string>
+    <string name="download_in_progress">Probíhá stahování</string>
+    <string name="downloading">Stahuji</string>
+    <string name="enable_updates">Nutno povolit automatické vyhledávání.</string>
+    <string name="hello_world">Nothing</string>
+    <string name="error_searching_updates">Během vyhledávání aktualizace došlo k chybě</string>
+    <string name="install">Instalovat</string>
+    <string name="install_text">Nová aktualizace bude nainstalováno. (Vyžadován restart)</string>
+    <string name="install_update">Instalovat aktualizaci</string>
+    <string name="last_check">Naposledy kontrolováno</string>
+    <string name="md5_error">MD5 nesouhlasí</string>
+    <string name="new_version">Nová verze</string>
+    <string name="new_version_found">Nalezena nová verze</string>
+    <string name="no_updates">Žádné aktualizace</string>
+    <string name="search">Vyhledat aktualizace</string>
+    <string name="searching">Vyhledávám</string>
+    <string name="sin_espacio">Nedostatek místa v úložišti</string>
+    <string name="update_available">Aktualizace dostupná!</string>
+    <string name="update_found">Aktualizace dostupná!</string>
+    <string name="update_not_supported">Aktualizace není podporována</string>
+    <string name="version">Současná verze</string>
+    <string name="warning">Varování</string>
+</resources>
